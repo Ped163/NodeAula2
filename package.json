@@ -1,0 +1,21 @@
+{
+  "name": "nodeaula2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mediaSimples.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ped163/NodeAula2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Ped163/NodeAula2/issues"
+  },
+  "homepage": "https://github.com/Ped163/NodeAula2#readme"
+}
